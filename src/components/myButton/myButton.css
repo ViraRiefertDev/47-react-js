@@ -14,3 +14,7 @@
   background: #f7ff00;
   background: linear-gradient(to right, #db36a4, #f7ff00);
 }
+
+.primary{
+  background: blue;
+}
