@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Homework04 from './homeworks/homework04/Homework04';
 /* import Lesson01 from './lesson01/Lesson01'; */
 //import Lesson02 from './lesson02/Lesson02';
 /* import Lesson03 from './lesson03/Lesson03'; */
 /* import Homework03 from './components/homework_03/Homework03'; */
 /* import Lesson04 from './lessons/lesson04/Lesson04'; */
+/* import Homework04 from './homeworks/homework04/Homework04'; */
+import Lesson05 from './lessons/lesson05/Lesson05';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -20,7 +21,8 @@ root.render(
     {/* <Lesson03 /> */}
     {/* <Homework03/> */}
     {/* <Lesson04/> */}
-    <Homework04/>
+    {/* <Homework04/> */}
+    {<Lesson05/>}
   </>
 );
 

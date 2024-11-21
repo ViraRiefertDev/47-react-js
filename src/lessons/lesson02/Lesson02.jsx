@@ -42,7 +42,7 @@ function Lesson02() {
     <div className={classContainer}>
       {/* Чтобы использовать динамические данные из js внутри верстки мы используем фигурные скобки */}
       <h2>{heading}</h2>
-      <h4 className='lesson2-list-heading'>Особенности React компонентов</h4>
+      <h4 className='lesson2-list-heading'>Lesson 2:Особенности React компонентов</h4>
       <ul>
         <li>Имеет расширение JSX</li>
         <li>Называется с большой буквы</li>

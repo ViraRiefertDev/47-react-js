@@ -24,7 +24,7 @@ function Lesson04() {
 
   return (
     <div className='lesson-container'>
-      <h2>React hook useState</h2>
+      <h2>Lesson 4: React hook useState</h2>
       <p>
         Чтобы хранить и отображать на странице изменяющиеся в react данные мы
         используем состояние - это особая переменная,которая приходит в

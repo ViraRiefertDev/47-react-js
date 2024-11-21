@@ -16,7 +16,7 @@ function Lesson03() {
 
   return (
     <div className="lesson-container">
-      <h2>React props</h2>
+      <h2>Lesson 3: React props</h2>
       <span>Способ передачи данных из компонента от родителя к ребенку</span>
       <p>Мы хотим использовать наш компонент кнопку с разными данными</p>
       <MyButton text={'нажать'} onClick={handleClick}/>

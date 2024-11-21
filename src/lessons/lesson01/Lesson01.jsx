@@ -13,7 +13,7 @@ function Lesson01() {
   return (
     //такой синтаксис: верстка с логикой JS называется JSX
     <div className='App'>
-      <h1>Hello, React!</h1>
+      <h1>Lesson 1:Hello, React!</h1>
       <img className='jsxImg' src={jsxImg} alt='' />
       <div>
         <MyButton text={'приходи ко мне на чай'} onClick = {remember}/>
